@@ -1,0 +1,2 @@
+###
+GET https://6430ebc93adb1596516265d4.mockapi.io/users
